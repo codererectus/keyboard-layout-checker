@@ -11,7 +11,7 @@ First, you must install this program in order for the robot to speak:
 
 Clone the repository:
 
-`` git clone https://github.com/jsonstackhum/keyboard-layout-checker.git ``
+`` git clone https://github.com/codererectus/keyboard-layout-checker.git ``
 
 Go to the repository directory:
 
